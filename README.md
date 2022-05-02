@@ -24,7 +24,7 @@
 
 ### helloworld/home/views.py: inserir 'from django.http import HttpResponse';
 
-### helloworld/home: criar arquivo urls.py e inserir from 'django.urls import path', 'from . import views' e
+### helloworld/home: criar arquivo urls.py e inserir 'from django.urls import path', 'from . import views' e
 
 urlpatterns = [
     path('', views.index, name='index')
