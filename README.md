@@ -37,6 +37,12 @@ urlpatterns = [
     path('home/', include('home.urls')),
 ];
 
+## Tecnologias Usadas:
+
+### - Python;
+
+### - Django;
+
 ## Imagem:
 
-![alt text]()
+![alt text](https://github.com/lucianonevesln/python-django-hello-world/blob/main/img.png)
